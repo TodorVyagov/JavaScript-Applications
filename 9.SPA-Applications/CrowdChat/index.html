@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crowd Chat</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper">
+        <a href="#/home">HOME PAGE</a>
+        <a href="#/chat">CHAT SESSION</a>
+        <div id="main-content"></div>
+    </div>
+
+    <script id="chat-message-template" type="x-mustache-template">
+        <span class="nickname">{{by}} </span>
+        <span class="message">{{{text}}}</span>
+    </script>
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
+</body>
+</html>

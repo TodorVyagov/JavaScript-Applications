@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\3.StudentAPI\bin\3.StudentAPI.dll.config
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\3.StudentAPI\bin\3.StudentAPI.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\3.StudentAPI\bin\3.StudentAPI.pdb
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\3.StudentAPI\obj\Debug\3.StudentAPI.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\3.StudentAPI\obj\Debug\3.StudentAPI.pdb
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\3.StudentAPI\obj\Debug\3.StudentAPI.csprojResolveAssemblyReference.cache

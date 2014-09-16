@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sheep and Rams</title>
+    <style>
+        #game-container{
+            text-align: center;
+            display: inline-block;
+            width: 400px;
+            border: 2px solid yellowgreen;
+            background-color: #BBCCCC;
+        }
+
+        textarea{
+            width: 250px;
+            height: 150px;
+        }
+
+        p {
+            text-align: left;
+        }
+
+        input{
+            width: 40px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <h2>Sheep and Rams</h2>
+        <p>
+            You must guess the four-digit number I am thinking of.
+            <br />
+            The number is composed of the digits 0-9(but cannot start with 0).
+            <br />
+            No digit appears more than once.
+            <br />
+            After each of your guesses, I will tell you:
+            <br />
+              The number of rams (digits in right place)
+            <br />
+              The number of sheep (correct digits, but in the wrong place).
+        </p>
+        <input type="text" id="guess" />
+        <button id="guess-button">Submit guess</button>
+        <br />
+        <div id="notes"></div>
+        <button id="new-game-button">Start new game</button>
+        <button id="show-scores-button">Show scores</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

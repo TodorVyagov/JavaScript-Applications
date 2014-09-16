@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\06.Consuming-Remote-Data-demos\Consuming-Remote-Data-demos\Demos\Demos\bin\Demos.dll.config
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\06.Consuming-Remote-Data-demos\Consuming-Remote-Data-demos\Demos\Demos\bin\Demos.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\06.Consuming-Remote-Data-demos\Consuming-Remote-Data-demos\Demos\Demos\bin\Demos.pdb
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\06.Consuming-Remote-Data-demos\Consuming-Remote-Data-demos\Demos\Demos\obj\Debug\Demos.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\06.Consuming-Remote-Data-demos\Consuming-Remote-Data-demos\Demos\Demos\obj\Debug\Demos.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\06.Consuming-Remote-Data-demos\Consuming-Remote-Data-demos\Demos\Demos\obj\Debug\Demos.pdb

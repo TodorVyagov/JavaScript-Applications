@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\1.HttpRequestModule\bin\1.HttpRequestModule.dll.config
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\1.HttpRequestModule\bin\1.HttpRequestModule.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\1.HttpRequestModule\bin\1.HttpRequestModule.pdb
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\1.HttpRequestModule\obj\Debug\1.HttpRequestModule.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\1.HttpRequestModule\obj\Debug\1.HttpRequestModule.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\6.ConsumingRemoteData\1.HttpRequestModule\obj\Debug\1.HttpRequestModule.pdb

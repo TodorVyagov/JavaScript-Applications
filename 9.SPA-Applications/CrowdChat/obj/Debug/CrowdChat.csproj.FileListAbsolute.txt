@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\9.SPA-Applications\CrowdChat\bin\CrowdChat.dll.config
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\9.SPA-Applications\CrowdChat\bin\CrowdChat.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\9.SPA-Applications\CrowdChat\bin\CrowdChat.pdb
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\9.SPA-Applications\CrowdChat\obj\Debug\CrowdChat.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\9.SPA-Applications\CrowdChat\obj\Debug\CrowdChat.dll
+D:\Todor\Telerik Software Academy\10.JavaScript-4Applications\9.SPA-Applications\CrowdChat\obj\Debug\CrowdChat.pdb

@@ -1,0 +1,5 @@
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows\BullsAndCows.WebClient\bin\BullsAndCows.WebClient.dll
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows\BullsAndCows.WebClient\bin\BullsAndCows.WebClient.pdb
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows\BullsAndCows.WebClient\obj\Debug\BullsAndCows.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows\BullsAndCows.WebClient\obj\Debug\BullsAndCows.WebClient.dll
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows\BullsAndCows.WebClient\obj\Debug\BullsAndCows.WebClient.pdb

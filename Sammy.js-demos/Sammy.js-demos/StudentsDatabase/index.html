@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="Scripts/libs/require.js" data-main="Scripts/app"></script>
+	<link href="Content/main.css" rel="stylesheet" />
+	<link href="Content/students.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>The Students Database
+			</h1>
+			<nav>
+				<ul>
+					<li class="selected">
+						<a href="#/">Home</a>
+					</li>
+					<li>
+						<a href="#/students">Students</a>
+					</li>
+					<li>
+						<a href="#/about">About</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		<div id="main-content">
+		</div>
+
+		<script id="student-template" type="x-mustache-template">
+			<a href="#/student/{{id}}">{{name}}</a>
+		</script>
+
+		<script id="mark-template" type="x-mustache-template">
+			<p>
+				{{subject}}: {{score}}
+			</p>
+		</script>
+	</div>
+</body>
+</html>
